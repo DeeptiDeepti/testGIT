@@ -1,2 +1,14 @@
 # testGIT
-learning GIT
+verson 1
+dafdasdfdsafsadf
+asdfdsafsadfasdfas
+asdfdsafasf
+
+
+
+asdfdsafasdf
+
+asdfadsfdsfasfasfa
+
+asfd
+asdfasdfa
